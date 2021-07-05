@@ -121,7 +121,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 ## 🐱‍👤 Autor
 
 <img style="border-radius: 10%" src="https://avatars3.githubusercontent.com/u/58194578?s=460&u=2cce4cfe93c827e033d632f223d61ffebc496c00&v=4" width="100px;"/>
-<sub><b>Rodrigo junior 🚀</b></sub>
+<sub style="margin-bottom: 30px"><b>Rodrigo junior 🚀</b></sub>
 
 <br />
 

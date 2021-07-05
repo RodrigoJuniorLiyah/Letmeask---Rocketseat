@@ -1,6 +1,6 @@
 <p align="center">
   <img alt="GitHub language count"
-  src="https://img.shields.io/badge/languages-2-green">
+  src="https://img.shields.io/badge/languages-4-green">
 
   <a href="https://twitter.com/Legend_Attack">
     <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FLegend_Attack">
@@ -8,16 +8,16 @@
 
   <img alt="Follow Github" src="https://img.shields.io/github/followers/RodrigoJuniorLiyah?style=social" />
 
-   <a href="https://github.com/RodrigoJuniorLiyah/MOVEIT---Rocketseat/stargazers">
+   <a href="https://github.com/RodrigoJuniorLiyah/letmeask/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/RodrigoJuniorLiyah/Happy---Rocketseat?style=social">
   </a>
 
-  <a href="https://github.com/RodrigoJuniorLiyah/MOVEIT---Rocketseat/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/RodrigoJuniorLiyah/MOVEIT---Rocketseat">
+  <a href="https://github.com/RodrigoJuniorLiyah/Letmeask---Rocketseat/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/RodrigoJuniorLiyah/Letmeask---Rocketseat">
   </a>
 </p>
 
-<h1 align="center">Move.it<ht>
+<h1 align="center">Letmeask<ht>
 <br></br>
 <h4 align="center"> 
 	🚧  Letmeask <img alt="icon ASK" src="./public/logo.svg" height="25" /> Concluído 🚀 🚧
@@ -25,7 +25,7 @@
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-Funcionalidades">Funcionalidades</a> •
+ <a href="#-funcionalidades">Funcionalidades</a> •
  <a href="#-layout">Layout</a> • 
  <a href="#-como-executar-o-projeto">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
@@ -40,7 +40,7 @@
 
 ---
 
-## ⚙️ Funcionalidades
+## 💻 Funcionalidades
 
 - [✔] Se cadastrar e logar com o Google
 - [✔] Criar salas
@@ -102,9 +102,8 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 
 - **[Typescript](https://www.typescriptlang.org/)**
 - **[ReactJs](https://reactjs.org/)**
-- **[Next.js](https://nextjs.org/)**
 
-  > Veja o arquivo [package.json](https://github.com/RodrigoJuniorLiyah/MOVEIT---Rocketseat/blob/main/package.json)
+  > Veja o arquivo [package.json](https://github.com/RodrigoJuniorLiyah/Letmeask---Rocketseat/blob/main/package.json)
 
 ---
 
@@ -121,7 +120,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 
 ## 🐱‍👤 Autor
 
-<img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/58194578?s=460&u=2cce4cfe93c827e033d632f223d61ffebc496c00&v=4" width="100px;"/>
+<img style="border-radius: 10%" src="https://avatars3.githubusercontent.com/u/58194578?s=460&u=2cce4cfe93c827e033d632f223d61ffebc496c00&v=4" width="100px;"/>
 <sub><b>Rodrigo junior 🚀</b></sub>
 
 <br />
